@@ -14,7 +14,7 @@
 # install android sdk first
 # then
 npm install
-npm 
+react-native run-android 
 ```
 
 ## 一览
